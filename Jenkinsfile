@@ -1,4 +1,4 @@
-Pipeline{
+pipeline{
 agent any
 
 stages{
@@ -18,5 +18,5 @@ stages{
 	  echo 'Deploying...'
 	  }
 	  }
-	  }
-	  }
+}
+}
